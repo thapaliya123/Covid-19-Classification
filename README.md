@@ -30,3 +30,4 @@ Capable of  classifying whether a patient is suffering from Covid-19 or not usin
 - Open files in colab
 - Copy all the files in google drive in a single directory including pickle files
 - Copy the pickle files path from google drive directory and paste in train_covid19.ipynb files in variable named i)FEATURES_PICKLE_FILE;ii)LABELS_PICKLE_FILE
+- Run the train_covid19.ipynb files
